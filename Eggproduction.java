@@ -4,7 +4,7 @@
 // 1/23/2025
 // Assignmnet: P1 Egg Production
 // This program will ask for the total number of chickens on a farm. It will then ask user for rooster count in those chickens. It will 
-// then ask the user for the percentage cjance a random chicken lays a egg daily. it will then ask for the total number of days and will
+// then ask the user for the percentage chance a random chicken lays a egg daily. It will then ask for the total number of days and will
 // output the estimated numbeer of eggs that will be produced on the farm. 
 
 import java.util.Scanner; // Scanner is in the java.util package
